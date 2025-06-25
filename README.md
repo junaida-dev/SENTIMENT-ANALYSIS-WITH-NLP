@@ -115,6 +115,15 @@ Such models help businesses and organizations automate the process of analyzing 
  Conclusion:
 This project provided hands-on experience in implementing a complete NLP-based sentiment classification pipeline. It strengthened my understanding of text preprocessing, TF-IDF feature engineering, supervised learning with Logistic Regression, and model evaluation techniques. Through this internship task, I gained practical knowledge of how machine learning can be used to solve real-world text classification problems, which will be valuable for future data science and machine learning projects.
 
+![Image](https://github.com/user-attachments/assets/95d788bd-ae02-432f-b975-c522be18360a)
+
+![Image](https://github.com/user-attachments/assets/49eeef62-c279-46b0-ad85-9338978f1fe2)
+
+![Image](https://github.com/user-attachments/assets/6f9eb054-6a29-4fcf-a72a-1e2229dfa382)
+
+![Image](https://github.com/user-attachments/assets/895c0d8c-47eb-4e37-a6f6-712a18b8d7a8)
+
+![Image](https://github.com/user-attachments/assets/9f17804e-5ad3-49c6-93a2-875b408deb8d)
 
  
 
@@ -125,6 +134,4 @@ This project provided hands-on experience in implementing a complete NLP-based s
 
 
 
-Conclusion:
-This internship task helped me apply NLP concepts, text vectorization techniques, and classification algorithms to solve a real-world text classification problem. The project improved my understanding of data preprocessing, feature extraction, model building, and performance evaluation in the field of NLP and Machine Learning.
 
